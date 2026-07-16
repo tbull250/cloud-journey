@@ -9,6 +9,7 @@ options for my family.
 **Week 1 – Identity & First Wins**
 - Set up GitHub + LinkedIn for cloud visibility
 - Wrote this public proof log
+- 
 **Projects (live/soon)**
 
 **How I document**
