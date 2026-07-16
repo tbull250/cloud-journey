@@ -1,4 +1,4 @@
-# ☁️ Cloud Journey | Public Proof Log
+# Cloud Journey | Public Proof Log
 
 > **Systems Administrator | U.S. Navy Veteran | Aspiring Cloud Engineer**
 >
@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Systems Administrator with experience supporting Department of Defense environments, Windows and Linux systems, Oracle applications, and enterprise infrastructure.
 
@@ -16,7 +16,7 @@ This repository serves as my portfolio and documents my growth as I continue lea
 
 ---
 
-## 🎯 Why I'm Here
+## Why I'm Here
 
 I'm transitioning into Cloud Engineering to build scalable infrastructure, solve real-world technical problems, and create long-term opportunities for my family.
 
@@ -24,32 +24,32 @@ Rather than simply completing labs, I'm building projects that mirror real Cloud
 
 ---
 
-## 🚀 Current Learning Roadmap
+## Current Learning Roadmap
 
-### ☁️ AWS
+### AWS
 - IAM
 - EC2
 - S3
 - VPC
 - CloudWatch
 
-### 🏗️ Infrastructure as Code
+### Infrastructure as Code
 - Terraform
 
-### 🐧 Operating Systems
+### Operating Systems
 - Ubuntu Linux
 
-### 🐳 Containers
+### Containers
 - Docker
 
-### ☸️ Coming Soon
+### Coming Soon
 - Kubernetes
 - Python Automation
 - CI/CD Pipelines
 
 ---
 
-# 📂 Cloud Projects
+# Cloud Projects
 
 | Project | Technologies | Status |
 |---------|--------------|--------|
@@ -59,7 +59,7 @@ Rather than simply completing labs, I'm building projects that mirror real Cloud
 
 ---
 
-## 📝 Documentation Standard
+## Documentation Standard
 
 Every project in this repository includes:
 
@@ -77,7 +77,7 @@ The goal is to document each project the same way it would be documented in a pr
 
 ---
 
-## 🛠️ Skills Being Developed
+## Skills Being Developed
 
 ### Cloud
 - Amazon EC2
@@ -108,7 +108,7 @@ The goal is to document each project the same way it would be documented in a pr
 
 ---
 
-## 📈 Weekly Progress Log
+## Progress Log
 
 ### Week 1
 - ✅ Created Cloud Journey repository
@@ -124,17 +124,6 @@ The goal is to document each project the same way it would be documented in a pr
 
 ---
 
-## 📜 Certifications
-
-### In Progress
-- AWS Certified Cloud Practitioner
-
-### Planned
-- AWS Certified Solutions Architect – Associate
-- AWS Certified SysOps Administrator – Associate
-
----
-
 ## 🤝 Connect With Me
 
 **LinkedIn**
@@ -147,4 +136,4 @@ I'm always open to connecting with cloud engineers, recruiters, veterans in tech
 
 > *"Small progress every day compounds into expertise."*
 
-⭐ Thanks for checking out my Cloud Journey!
+Thanks for checking out my Cloud Journey!
