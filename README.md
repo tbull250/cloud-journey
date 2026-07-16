@@ -9,9 +9,8 @@ options for my family.
 **Week 1 – Identity & First Wins**
 - Set up GitHub + LinkedIn for cloud visibility
 - Wrote this public proof log
-- Next up: S3 + IAM “Public Access Problem” lab
 **Projects (live/soon)**
-(whatever projects or workshops you will do)
+
 **How I document**
 Each project includes: problem → approach → commands/code → screenshots →
 lessons learned → what I'd do differently.
